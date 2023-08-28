@@ -1,0 +1,254 @@
+{
+    "quotes":[
+        {
+            "quote": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs",
+            "category": "Inspiration"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost",
+            "category": "Life"
+        },
+        {
+            "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+            "author": "Winston Churchill",
+            "category": "Success"
+        },
+        {
+            "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            "author": "Nelson Mandela",
+            "category": "Perseverance"
+        },
+        {
+            "quote": "The future belongs to those who believe in the beauty of their dreams.",
+            "author": "Eleanor Roosevelt",
+            "category": "Dreams"
+        },
+        {
+            "quote": "Life is really simple, but we insist on making it complicated.",
+            "author": "Confucius",
+            "category": "Simplicity"
+        },
+        {
+            "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+            "author": "Edmund Burke",
+            "category": "Justice"
+        },
+        {
+            "quote": "The journey of a thousand miles begins with one step.",
+            "author": "Lao Tzu",
+            "category": "Journey"
+        },
+        {
+            "quote": "You miss 100% of the shots you don't take.",
+            "author": "Wayne Gretzky",
+            "category": "Opportunity"
+        },
+        {
+            "quote": "The greatest wealth is to live content with little.",
+            "author": "Plato",
+            "category": "Contentment"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha",
+            "category": "Mindfulness"
+        },
+        {
+            "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+            "author": "Franklin D. Roosevelt",
+            "category": "Possibility"
+        },
+        {
+            "quote": "Believe you can and you're halfway there.",
+            "author": "Theodore Roosevelt",
+            "category": "Belief"
+        },
+        {
+            "quote": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon",
+            "category": "Life"
+        },
+        {
+            "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "author": "Chinese Proverb",
+            "category": "Action"
+        },
+        {
+            "quote": "The future depends on what you do today.",
+            "author": "Mahatma Gandhi",
+            "category": "Future"
+        },
+        {
+            "quote": "Success usually comes to those who are too busy to be looking for it.",
+            "author": "Henry David Thoreau",
+            "category": "Success"
+        },
+        {
+            "quote": "Don't watch the clock; do what it does. Keep going.",
+            "author": "Sam Levenson",
+            "category": "Perseverance"
+        },
+        {
+            "quote": "Life is short, and it's up to you to make it sweet.",
+            "author": "Sarah Louise Delany",
+            "category": "Life"
+        },
+        {
+            "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+            "author": "Joel Brown",
+            "category": "Dreams"
+        },
+        {
+            "quote": "The biggest risk is not taking any risk. In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks.",
+            "author": "Mark Zuckerberg",
+            "category": "Risk"
+        },
+        {
+            "quote": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+            "author": "Brian Tracy",
+            "category": "Empowerment"
+        },
+        {
+            "quote": "When something is important enough, you do it even if the odds are not in your favor.",
+            "author": "Elon Musk",
+            "category": "Determination"
+        },
+        {
+            "quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+            "author": "William Arthur Ward",
+            "category": "Perspective"
+        },
+        {
+            "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+            "author": "Ralph Waldo Emerson",
+            "category": "Inner Strength"
+        },
+        {
+            "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+            "author": "Joel Brown",
+            "category": "Dreams"
+        },
+        {
+            "quote": "Happiness is not something readymade. It comes from your own actions.",
+            "author": "Dalai Lama",
+            "category": "Happiness"
+        },
+        {
+            "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+            "author": "Joshua J. Marine",
+            "category": "Challenges"
+        },
+        {
+            "quote": "Don't count the days, make the days count.",
+            "author": "Muhammad Ali",
+            "category": "Time"
+        },
+        {
+            "quote": "You are never too old to set another goal or to dream a new dream.",
+            "author": "C.S. Lewis",
+            "category": "Dreams"
+        },
+        {
+            "quote": "The harder the conflict, the greater the triumph.",
+            "author": "George Washington",
+            "category": "Triumph"
+        },
+        {
+            "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+            "author": "Albert Schweitzer",
+            "category": "Success"
+        },
+        {
+            "quote": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+            "author": "Jordan Belfort",
+            "category": "Mindset"
+        },
+        {
+            "quote": "Life is 10% what happens to us and 90% how we react to it.",
+            "author": "Charles R. Swindoll",
+            "category": "Life"
+        },
+        {
+            "quote": "Change your thoughts and you change your world.",
+            "author": "Norman Vincent Peale",
+            "category": "Mindset"
+        },
+        {
+            "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+            "author": "Christian D. Larson",
+            "category": "Self-Belief"
+        },
+        {
+            "quote": "Your time is limited, don't waste it living someone else's life.",
+            "author": "Steve Jobs",
+            "category": "Life"
+        },
+        {
+            "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+            "author": "Franklin D. Roosevelt",
+            "category": "Doubt"
+        },
+        {
+            "quote": "The true test of leadership is how well you function in a crisis.",
+            "author": "Brian Tracy",
+            "category": "Leadership"
+        },
+        {
+            "quote": "The more I want to get something done, the less I call it work.",
+            "author": "Richard Bach",
+            "category": "Passion"
+        },
+        {
+            "quote": "The best revenge is massive success.",
+            "author": "Frank Sinatra",
+            "category": "Success"
+        },
+        {
+            "quote": "The harder I work, the luckier I get.",
+            "author": "Samuel Goldwyn",
+            "category": "Hard Work"
+        },
+        {
+            "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+            "author": "Winston Churchill",
+            "category": "Success"
+        },
+        {
+            "quote": "The only thing we have to fear is fear itself.",
+            "author": "Franklin D. Roosevelt",
+            "category": "Fear"
+        },
+        {
+            "quote": "The only thing you can control is your effort and your attitude.",
+            "author": "Mark Cuban",
+            "category": "Control"
+        },
+        {
+            "quote": "The only thing worse than starting something and failing is not starting something.",
+            "author": "Seth Godin",
+            "category": "Starting"
+        },
+        {
+            "quote": "The best way to predict your future is to create it.",
+            "author": "Peter Drucker",
+            "category": "Future"
+        },
+        {
+            "quote": "There are no shortcuts to any place worth going.",
+            "author": "Beverly Sills",
+            "category": "Journey"
+        },
+        {
+            "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+            "author": "Roy T. Bennett",
+            "category": "Dreams"
+        },
+        {
+            "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "author": "Chinese Proverb",
+            "category": "Opportunity"
+        }
+    ]
+}
